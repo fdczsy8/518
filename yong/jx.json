@@ -6,20 +6,9 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🐰丨防失联:Q群：950080131",
+            "name": "🐰美妞祝大家龙年大发！",
             "type": 3,
             "api": "csp_Douban",
-            "style": {
-                "type": "rect",
-                "ratio": 0.65
-            },
-            "searchable": 0
-        },
-        {
-            "key": "预告",
-            "name": "📅丨更新时间 12月12日",
-            "type": 3,
-            "api": "csp_YGP",
             "style": {
                 "type": "rect",
                 "ratio": 0.65
@@ -89,8 +78,8 @@
             "type": 3,
             "url": "Demo"
         },
-        {
-            "name": "QQ群：950080131",
+       {
+            "name": "美妞",
             "type": 1,
             "url": "http://1.94.221.189:88/algorithm.php?url=",
             "ext": {
@@ -119,10 +108,31 @@
             }
         },
         {
-            "name": "qiqi整理 Q群：950080131",
+            "name": "美妞2",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+       "name": "虾米",
+       "url": "http://drpys.6516789.xyz/parse/虾米?url=",
+       "type": 1,
+       "ext": {
+           "flag": ["qiyi", "imgo", "爱奇艺", "奇艺", "qq", "qq 预告及花絮", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "mgtv", "芒果", "sohu", "xigua", "fun", "风行"]
+       },
+       "header": {
+           "User-Agent": "Mozilla/5.0"
+       }
+   },
+          {
+      "name": "-虾米2-",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
+      }
+    }
     ],
     "rules": [
         {
