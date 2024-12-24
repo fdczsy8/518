@@ -20,56 +20,56 @@
             "name": "腾讯弹幕",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/drpy2.min.js",
-            "ext": "./JS/腾讯弹幕.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/%E8%85%BE%E8%AE%AF%E5%BC%B9%E5%B9%95.js"
         },
         {
             "key": "腾讯视频",
             "name": "腾讯视频",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/drpy2.min.js",
-            "ext": "./JS/腾讯视频.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"
         },
         {
             "key": "芒果弹幕",
             "name": "芒果TV弹幕",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/drpy2.min.js",
-            "ext": "./JS/芒果弹幕.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/%E8%8A%92%E6%9E%9C%E5%BC%B9%E5%B9%95.js"
         },
         {
             "key": "月惜花晨2",
             "name": "芒果TV普通",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/drpy2.min.js",
-            "ext": "./JS/芒果视频.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
         },
         {
             "key": "优酷弹幕",
             "name": "优酷弹幕",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/drpy2.min.js",
-            "ext": "./JS/优酷弹幕.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/%E4%BC%98%E9%85%B7%E5%BC%B9%E5%B9%95.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷视频",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/drpy2.min.js",
-            "ext": "./JS/优酷视频.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
         },
         {
             "key": "爱奇艺弹幕",
             "name": "爱奇艺弹幕",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/drpy2.min.js",
-            "ext": "./JS/爱奇艺弹幕.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/%E7%88%B1%E5%A5%87%E8%89%BA%E5%BC%B9%E5%B9%95.js"
         },
         {
             "key": "爱奇艺",
             "name": "爱奇艺视频",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/drpy2.min.js",
-            "ext": "./JS/爱奇艺.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/yong/JS/%E7%88%B1%E5%A5%87%E8%89%BA.js"
         }
     ],
     "parses": [
