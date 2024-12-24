@@ -73,12 +73,12 @@
         }
     ],
     "parses": [
-        {
-            "name": "聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
+       {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+  {
             "name": "美妞",
             "type": 1,
             "url": "http://1.94.221.189:88/algorithm.php?url=",
