@@ -2,6 +2,10 @@
   "spider": "https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/xyqxbpq.jar",
   "sites": [
    {"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"./libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js"},
+	           {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E5%A5%87%E8%89%BA%E8%A7%86%E9%A2%91.js"},
+        {"key":"drpy_js_优酷","name":"优酷视频","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"},
+        {"key":"drpy_js_腾云驾雾","name":"腾云视频","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"},
+        {"key":"drpy_js_百忙无果","name":"芒果TV","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
    {
             "key": "皮皮虾",
             "name": "皮皮虾｜APP",
@@ -49,10 +53,6 @@
                 "分类url": "https://www.31jnj.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---.html",
                 "分类": "电影&剧集&综艺&动漫&短剧&爽文短剧&女频恋爱&反转爽剧&古装仙侠&年代穿越&脑洞悬疑&现代都市",
                 "分类值":"1&2&3&4&36&37&38&39&40&41&42&43"}},
-         {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"./js/奇珍异兽.js"},
-        {"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"},
-        {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"},
-        {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
             {
       "key": "小猫",
       "name": "小猫┃解析",
