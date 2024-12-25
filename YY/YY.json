@@ -1,7 +1,7 @@
 ﻿{
   "spider": "https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/xyqxbpq.jar",
   "sites": [
-   {"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/drpy.js"},
+   {"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/drpy.js"},
 	           {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E5%A5%87%E8%89%BA%E8%A7%86%E9%A2%91.js"},
         {"key":"drpy_js_优酷","name":"优酷视频","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"},
         {"key":"drpy_js_腾云驾雾","name":"腾云视频","type":3,"api":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/libs/drpy2.min.js","ext":"https://ghgo.xyz/https://raw.githubusercontent.com/fdczsy8/518/refs/heads/main/YY/js/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"},
